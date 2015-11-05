@@ -1,0 +1,10 @@
+_init: CODE, 1194 0 27
+_LCDWrite: CODE, 1632 0 160
+_main: CODE, 1792 0 256
+_LCDWriteText: CODE, 1221 0 58
+_LCDInit: CODE, 1279 0 61
+___lwdiv: CODE, 1402 0 70
+_init_adc: CODE, 1178 0 16
+_LCDCommand: CODE, 1472 0 160
+___lwmod: CODE, 1340 0 62
+Total: 870
